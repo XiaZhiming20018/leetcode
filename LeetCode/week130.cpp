@@ -1,7 +1,9 @@
 #pragma
+
+#include "pch.h"
 #include "allHeader.h"
-using namespace std;
 #include <queue>
+using namespace std;
 
 /*
 1029. 可被 5 整除的二进制前缀
@@ -89,6 +91,7 @@ string baseNeg2(int N) {
 
 		注意：在下面的示例中，诸如 [2,1,5] 这样的输入（不是输出）是链表的序列化表示，其头节点的值为 2，第二个节点值为 1，第三个节点值为 5 。
 */
+
 
 vector<int> nextLargerNodes(ListNode* head) {
 	vector<int> nums;

@@ -80,6 +80,15 @@
     <ClCompile Include="week130.cpp">
       <Filter>Compete</Filter>
     </ClCompile>
+    <ClCompile Include="leetCode142.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode102.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode151.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="State.txt">
