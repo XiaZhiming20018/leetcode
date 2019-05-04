@@ -89,6 +89,27 @@
     <ClCompile Include="leetCode151.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="leetCode227.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode537.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode539.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode553.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode556__no.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode149.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="State.txt">

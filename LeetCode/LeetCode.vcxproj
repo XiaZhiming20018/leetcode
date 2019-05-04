@@ -160,8 +160,15 @@
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="leetCode102.cpp" />
     <ClCompile Include="leetCode142.cpp" />
+    <ClCompile Include="leetCode149.cpp" />
     <ClCompile Include="leetCode151.cpp" />
+    <ClCompile Include="leetCode227.cpp" />
     <ClCompile Include="leetCode33.cpp" />
+    <ClCompile Include="leetCode34.cpp" />
+    <ClCompile Include="leetCode537.cpp" />
+    <ClCompile Include="leetCode539.cpp" />
+    <ClCompile Include="leetCode553.cpp" />
+    <ClCompile Include="leetCode556__no.cpp" />
     <ClCompile Include="leetCode71.cpp" />
     <ClCompile Include="leetCode77.cpp" />
     <ClCompile Include="leetCode79.cpp" />
