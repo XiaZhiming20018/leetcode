@@ -62,12 +62,6 @@
     <ClCompile Include="ListReverse.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="leetCode93______NO.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="leetCode95______NO.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="leetCode96.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -108,6 +102,36 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="leetCode34.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode045.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode103.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode139.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode105.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode223.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode224.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode084.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode93_no.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode95_no.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetCode085.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

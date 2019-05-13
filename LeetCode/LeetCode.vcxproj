@@ -158,10 +158,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp" />
+    <ClCompile Include="leetCode045.cpp" />
+    <ClCompile Include="leetCode084.cpp" />
+    <ClCompile Include="leetCode085.cpp" />
     <ClCompile Include="leetCode102.cpp" />
+    <ClCompile Include="leetCode103.cpp" />
+    <ClCompile Include="leetCode105.cpp" />
+    <ClCompile Include="leetCode139.cpp" />
     <ClCompile Include="leetCode142.cpp" />
     <ClCompile Include="leetCode149.cpp" />
     <ClCompile Include="leetCode151.cpp" />
+    <ClCompile Include="leetCode223.cpp" />
+    <ClCompile Include="leetCode224.cpp" />
     <ClCompile Include="leetCode227.cpp" />
     <ClCompile Include="leetCode33.cpp" />
     <ClCompile Include="leetCode34.cpp" />
@@ -175,8 +183,8 @@
     <ClCompile Include="leetCode81.cpp" />
     <ClCompile Include="leetCode86.cpp" />
     <ClCompile Include="leetCode92.cpp" />
-    <ClCompile Include="leetCode93______NO.cpp" />
-    <ClCompile Include="leetCode95______NO.cpp" />
+    <ClCompile Include="leetCode93_no.cpp" />
+    <ClCompile Include="leetCode95_no.cpp" />
     <ClCompile Include="leetCode96.cpp" />
     <ClCompile Include="leetCode98.cpp" />
     <ClCompile Include="ListReverse.cpp" />

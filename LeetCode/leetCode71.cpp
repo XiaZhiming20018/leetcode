@@ -78,7 +78,7 @@ string simplifyPath1(string path)
 		tmp.pop();
 	}
 	// 最后输出不能为空
-	if (result.length() == 0)
+	if (result.size() == 0)
 		return "/";           
 	return result;
 }

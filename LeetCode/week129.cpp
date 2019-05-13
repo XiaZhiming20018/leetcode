@@ -111,7 +111,7 @@ int maxScoreSightseeingPair(vector<int>& A) {
 */
 
 bool queryString(string S, int N) {
-	int len = S.length();
+	int len = S.size();
 	set<int> s;
 	for (int j = 1; j <= min(len, 30); ++j) {
 		for (int i = 0; i + j - 1 < len; ++i) {
